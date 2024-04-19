@@ -275,7 +275,7 @@ const CategoriesContent = () => {//category, productName, packSize, mrp, status,
 
                 </div>
               </div>
-              <div className="flex justify-end pt-80">
+              <div className="flex justify-end pt-60">
                 <button
                   type="button"
                   onClick={handleBack}
